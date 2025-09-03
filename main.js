@@ -54,13 +54,3 @@ display(
   RecivedDiscountDetails[0],
   RecivedDiscountDetails[1]
 );
-
-
-
-
-
-
-
-
-
-
